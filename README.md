@@ -2,7 +2,7 @@
 
 ## Install
 ```
-asdf plugin add protoc-gen-swift https://github.com/jasonlhy/asdf-protoc-gen-swift.git
+asdf plugin add protoc-gen-swift https://github.com/jason-lhy/asdf-protoc-gen-swift.git
 ```
 
 ## Use
